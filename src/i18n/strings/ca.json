@@ -1,7 +1,7 @@
 {
     "Dismiss": "Omet",
     "Unknown device": "Dispositiu desconegut",
-    "Welcome to Element": "Benvingut/da a Element",
+    "Welcome to Sphere Chat": "Benvingut/da a Sphere Chat",
     "Create Account": "Crea un compte",
     "Explore rooms": "Explora sales",
     "Sign In": "Inicia sessió",
@@ -9,8 +9,8 @@
     "Invalid JSON": "JSON invàlid",
     "Go to your browser to complete Sign In": "Vés al navegador per completar l'inici de sessió",
     "Invalid configuration: can only specify one of default_server_config, default_server_name, or default_hs_url.": "Configuració invàlida: només pots especificar una únic default_server_config, default_server_name, o default_hs_url.",
-    "Your Element is misconfigured": "Element està mal configurat",
-    "Your Element configuration contains invalid JSON. Please correct the problem and reload the page.": "La configuració d'Element conté un JSON invàlid. Soluciona el problema i actualitza la pàgina.",
+    "Your Sphere Chat is misconfigured": "Sphere Chat està mal configurat",
+    "Your Sphere Chat configuration contains invalid JSON. Please correct the problem and reload the page.": "La configuració d'Sphere Chat conté un JSON invàlid. Soluciona el problema i actualitza la pàgina.",
     "The message from the parser is: %(message)s": "El missatge de l'analitzador és: %(message)s",
     "Unable to load config file: please refresh the page to try again.": "No s'ha pogut carregar el fitxer de configuració: actualitza la pàgina per tornar-ho a provar.",
     "Unexpected error preparing the app. See console for details.": "Error inesperat durant la preparació de l'aplicació. Consulta la consola pels a més detalls.",
@@ -25,7 +25,7 @@
     "Please install <chromeLink>Chrome</chromeLink>, <firefoxLink>Firefox</firefoxLink>, or <safariLink>Safari</safariLink> for the best experience.": "Instal·la <chromeLink>Chrome</chromeLink>, <firefoxLink>Firefox</firefoxLink>, o <safariLink>Safari</safariLink> per obtenir la millor experiència.",
     "You can continue using your current browser, but some or all features may not work and the look and feel of the application may be incorrect.": "Pots continuar utilitzant el teu navegador actual, però algunes o totes les funcions podrien no funcionar i l'aspecte de l'aplicació podria ser incorrecte.",
     "I understand the risks and wish to continue": "Entenc els riscos i vull continuar",
-    "Go to element.io": "Vés a element.io",
+    "Go to Sphere Chat.io": "Vés a Sphere Chat.io",
     "Failed to start": "Ha fallat l'inici",
     "Use %(brand)s on mobile": "Utilitza %(brand)s al mòbil"
 }

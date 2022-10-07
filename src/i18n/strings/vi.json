@@ -1,7 +1,7 @@
 {
     "Unknown device": "Thiết bị không xác định",
     "Dismiss": "Bỏ qua",
-    "Welcome to Element": "Chào mừng tới Element",
+    "Welcome to Sphere Chat": "Chào mừng tới Sphere Chat",
     "Unexpected error preparing the app. See console for details.": "Có lỗi xảy ra trong lúc thiết lập ứng dụng. Mở bảng điều khiển (console) để biết chi tiết.",
     "The message from the parser is: %(message)s": "Thông báo của trình xử lý là: %(message)s",
     "Invalid JSON": "JSON không hợp lệ",
@@ -11,7 +11,7 @@
     "Create Account": "Tạo tài khoản",
     "Explore rooms": "Khám phá phòng chat",
     "Download Completed": "Tải xuống hoàn tất",
-    "Go to element.io": "Đi đến element.io",
+    "Go to Sphere Chat.io": "Đi đến Sphere Chat.io",
     "I understand the risks and wish to continue": "Tôi hiểu các rủi ro và muốn tiếp tục",
     "You can continue using your current browser, but some or all features may not work and the look and feel of the application may be incorrect.": "Bạn có thể tiếp tục sử dụng trình duyệt hiện tại, tuy nhiên một số hoặc tất cả tính năng có thể sẽ không hoạt động và trải nghiệm ứng dụng có thể sẽ không được tốt.",
     "Please install <chromeLink>Chrome</chromeLink>, <firefoxLink>Firefox</firefoxLink>, or <safariLink>Safari</safariLink> for the best experience.": "Hãy cài đặt <chromeLink>Chrome</chromeLink>, <firefoxLink>Firefox</firefoxLink>, hoặc <safariLink>Safari</safariLink> để có trải nghiệm tốt nhất.",
@@ -26,7 +26,7 @@
     "Use %(brand)s on mobile": "Sử dụng %(brand)s trên di động",
     "Powered by Matrix": "Được chạy trên giao thức Matrix",
     "%(appName)s (%(browserName)s, %(osName)s)": "%(appName)s (%(browserName)s, %(osName)s)",
-    "Your Element configuration contains invalid JSON. Please correct the problem and reload the page.": "Thiết lập Element của bạn chứa JSON không hợp lệ. Vui lòng sửa vấn đề và tải lại trang.",
-    "Your Element is misconfigured": "Element của bạn bị thiết lập sai",
+    "Your Sphere Chat configuration contains invalid JSON. Please correct the problem and reload the page.": "Thiết lập Sphere Chat của bạn chứa JSON không hợp lệ. Vui lòng sửa vấn đề và tải lại trang.",
+    "Your Sphere Chat is misconfigured": "Sphere Chat của bạn bị thiết lập sai",
     "Decentralised, encrypted chat &amp; collaboration powered by $matrixLogo": "Dịch vụ chat &amp; liên lạc đã được mã hóa, phi tập trung. Được cung cấp bởi $matrixLogo"
 }

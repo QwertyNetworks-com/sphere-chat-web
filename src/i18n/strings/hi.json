@@ -1,7 +1,7 @@
 {
     "Unknown device": "अज्ञात यन्त्र",
     "Dismiss": "खारिज",
-    "Welcome to Element": "Element में आपका स्वागत है",
+    "Welcome to Sphere Chat": "Sphere Chat में आपका स्वागत है",
     "Sign In": "साइन करना",
     "Create Account": "खाता बनाएं",
     "Explore rooms": "रूम का अन्वेषण करें",
@@ -9,7 +9,7 @@
     "%(brand)s Desktop (%(platformName)s)": "%(brand)s का डेस्कटॉप (%(platformName)s)",
     "Invalid configuration: can only specify one of default_server_config, default_server_name, or default_hs_url.": "अमान्य कॉन्फ़िगरेशन: केवल default_server_config, default_server_name, या default_hs_url में से कोई एक निर्दिष्ट कर सकता है।",
     "Failed to start": "प्रारंभ करने में विफल",
-    "Go to element.io": "element.io पर जाएं",
+    "Go to Sphere Chat.io": "Sphere Chat.io पर जाएं",
     "I understand the risks and wish to continue": "मैं जोखिमों को समझता हूं और जारी रखना चाहता हूं",
     "You can continue using your current browser, but some or all features may not work and the look and feel of the application may be incorrect.": "आप अपने वर्तमान ब्राउज़र का उपयोग जारी रख सकते हैं, लेकिन हो सकता है कि कुछ या सभी सुविधाएं काम न करें और एप्लिकेशन का रंगरूप गलत हो सकता है।",
     "Please install <chromeLink>Chrome</chromeLink>, <firefoxLink>Firefox</firefoxLink>, or <safariLink>Safari</safariLink> for the best experience.": "सर्वोत्तम अनुभव के लिए कृपया <chromeLink>Chrome</chromeLink>, <firefoxLink>Firefox</firefoxLink>, या <safariLink>Safari</safariLink> इंस्टॉल करें।",
@@ -25,7 +25,7 @@
     "Unable to load config file: please refresh the page to try again.": "कॉन्फ़िग फ़ाइल लोड करने में असमर्थ: कृपया पुन: प्रयास करने के लिए पृष्ठ को रीफ़्रेश करें।",
     "Invalid JSON": "अमान्य JSON",
     "The message from the parser is: %(message)s": "पार्सर का संदेश है: %(message)s",
-    "Your Element configuration contains invalid JSON. Please correct the problem and reload the page.": "आपके एलीमेंट कॉन्फ़िगरेशन में अमान्य JSON है. कृपया समस्या को ठीक करें और पृष्ठ को पुनः लोड करें।",
-    "Your Element is misconfigured": "आपका तत्व गलत कॉन्फ़िगर किया गया है",
+    "Your Sphere Chat configuration contains invalid JSON. Please correct the problem and reload the page.": "आपके एलीमेंट कॉन्फ़िगरेशन में अमान्य JSON है. कृपया समस्या को ठीक करें और पृष्ठ को पुनः लोड करें।",
+    "Your Sphere Chat is misconfigured": "आपका तत्व गलत कॉन्फ़िगर किया गया है",
     "Invalid configuration: no default server specified.": "अमान्य कॉन्फ़िगरेशन: कोई डिफ़ॉल्ट सर्वर निर्दिष्ट नहीं है।"
 }

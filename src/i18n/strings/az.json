@@ -9,11 +9,11 @@
     "Invalid configuration: no default server specified.": "Yanlış konfiqurasiya: standart server göstərilməyib.",
     "The message from the parser is: %(message)s": "Sözügedən mesaj: %(message)s",
     "Dismiss": "Nəzərə almayın",
-    "Welcome to Element": "Element-ə xoş gəlmişsiniz",
+    "Welcome to Sphere Chat": "Sphere Chat-ə xoş gəlmişsiniz",
     "Decentralised, encrypted chat &amp; collaboration powered by [matrix]": "[matrix] tərəfindən təchiz edilmiş mərkəziləşdirilməmiş, şifrələnmiş çat və əməkdaşlıq platforması",
     "Decentralised, encrypted chat &amp; collaboration powered by $matrixLogo": "$matrixLogo tərəfindən dəstəklənən mərkəzləşdirilməmiş ,şifrələnmiş söhbət &amp; əməkdaşlıq",
     "Failed to start": "Başlatmaq alınmadı",
-    "Go to element.io": "element.io saytına keçin",
+    "Go to Sphere Chat.io": "Sphere Chat.io saytına keçin",
     "I understand the risks and wish to continue": "Mən riskləri başa düşürəm və davam etmək istəyirəm",
     "You can continue using your current browser, but some or all features may not work and the look and feel of the application may be incorrect.": "Siz cari brauzerinizdən istifadə etməyə davam edə bilərsiniz, lakin bəzi və ya bütün funksiyalar işləməyə və tətbiqin görünüşü yanlış ola bilər.",
     "Please install <chromeLink>Chrome</chromeLink>, <firefoxLink>Firefox</firefoxLink>, or <safariLink>Safari</safariLink> for the best experience.": "Zəhmət olmasa quraşdırın<chromeLink> Chrome</chromeLink> ,<firefoxLink> Firefox</firefoxLink> , və ya<safariLink> Safari</safariLink> ən yaxşı təcrübə üçün.",
@@ -28,6 +28,6 @@
     "Open": "Aç",
     "Download Completed": "Yükləmə Tamamlandı",
     "Unable to load config file: please refresh the page to try again.": "Konfiqurasiya faylını yükləmək mümkün deyil: yenidən cəhd etmək üçün səhifəni yeniləyin.",
-    "Your Element configuration contains invalid JSON. Please correct the problem and reload the page.": "Element konfiqurasiyanızda yanlış JSON var. Problemi düzəldin və səhifəni yenidən yükləyin.",
-    "Your Element is misconfigured": "Elementi yanlış konfiqurasiya edibsiniz"
+    "Your Sphere Chat configuration contains invalid JSON. Please correct the problem and reload the page.": "Sphere Chat konfiqurasiyanızda yanlış JSON var. Problemi düzəldin və səhifəni yenidən yükləyin.",
+    "Your Sphere Chat is misconfigured": "Sphere Chati yanlış konfiqurasiya edibsiniz"
 }

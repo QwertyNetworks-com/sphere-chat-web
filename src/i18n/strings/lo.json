@@ -4,9 +4,9 @@
     "Create Account": "ສ້າງບັນຊີ",
     "Sign In": "ເຂົ້າສູ່ລະບົບ",
     "Decentralised, encrypted chat &amp; collaboration powered by $matrixLogo": "ການສົນທະນາແບບເຂົ້າລະຫັດ ແລະກະຈ່າຍການຄຸ້ມຄອງ &amp; ການຮ່ວມມື້ ແລະສະໜັບສະໜູນໂດຍ $matrixLogo",
-    "Welcome to Element": "ຍິນດີຕ້ອນຮັບ",
+    "Welcome to Sphere Chat": "ຍິນດີຕ້ອນຮັບ",
     "Failed to start": "ບໍ່ສາມາດເປີດໄດ້",
-    "Go to element.io": "ໄປຫາ element.io",
+    "Go to Sphere Chat.io": "ໄປຫາ Sphere Chat.io",
     "I understand the risks and wish to continue": "ຂ້າພະເຈົ້າເຂົ້າໃຈຄວາມສ່ຽງ ແລະຢາກສືບຕໍ່",
     "You can continue using your current browser, but some or all features may not work and the look and feel of the application may be incorrect.": "ທ່ານສາມາດສືບຕໍ່ນຳໃຊ້ບຣາວເຊີປັດຈຸບັນຂອງເຈົ້າໄດ້, ແຕ່ບາງຄຸນສົມບັດ ຫຼື ທັງໝົດອາດຈະບໍ່ເຮັດວຽກ ແລະ ລັກສະນະ ແລະ ຄວາມຮູ້ສຶກຂອງແອັບພລິເຄຊັນອາດບໍ່ຖືກຕ້ອງ.",
     "Please install <chromeLink>Chrome</chromeLink>, <firefoxLink>Firefox</firefoxLink>, or <safariLink>Safari</safariLink> for the best experience.": "ກະລຸນາຕິດຕັ້ງ <chromeLink>Chrome</chromeLink>, <firefoxLink>Firefox</firefoxLink>, or <safariLink>Safari</safariLink> ສຳລັບປະສົບການທີ່ດີທີ່ສຸດ.",
@@ -25,8 +25,8 @@
     "Unable to load config file: please refresh the page to try again.": "ບໍ່ສາມາດໂຫຼດໄຟລ໌ config ໄດ້: ກະລຸນາໂຫຼດໜ້ານີ້ຄືນໃໝ່ເພື່ອລອງອີກຄັ້ງ.",
     "Invalid JSON": "JSON ບໍ່ຖືກຕ້ອງ",
     "The message from the parser is: %(message)s": "ຂໍ້ຄວາມຈາກຕົວປ່ຽນແມ່ນ: %(message)s",
-    "Your Element configuration contains invalid JSON. Please correct the problem and reload the page.": "ການຕັ້ງຄ່າແອັບ Element ຂອງທ່ານມີຄ່າ JSON ທີ່ບໍ່ຖືກຕ້ອງ. ກະລຸນາແກ້ໄຂບັນຫາ ແລະໂຫຼດໜ້ານີ້ຄືນໃໝ່.",
-    "Your Element is misconfigured": "ການຕັ້ງຄ່າແອັບ Element ຂອງທ່ານບໍ່ຖືກຕ້ອງ",
+    "Your Sphere Chat configuration contains invalid JSON. Please correct the problem and reload the page.": "ການຕັ້ງຄ່າແອັບ Sphere Chat ຂອງທ່ານມີຄ່າ JSON ທີ່ບໍ່ຖືກຕ້ອງ. ກະລຸນາແກ້ໄຂບັນຫາ ແລະໂຫຼດໜ້ານີ້ຄືນໃໝ່.",
+    "Your Sphere Chat is misconfigured": "ການຕັ້ງຄ່າແອັບ Sphere Chat ຂອງທ່ານບໍ່ຖືກຕ້ອງ",
     "Invalid configuration: no default server specified.": "ການຕັ້ງຄ່າບໍ່ຖືກຕ້ອງ: ບໍ່ໄດ້ລະບຸເຊີບເວີເລີ່ມຕົ້ນ.",
     "Invalid configuration: can only specify one of default_server_config, default_server_name, or default_hs_url.": "ການຕັ້ງຄ່າບໍ່ຖືກຕ້ອງ: ສາມາດລະບຸໄດ້ພຽງແຕ່ອັນດຽວຂອງ default_server_config, default_server_name, or default_hs_url."
 }
