@@ -45,6 +45,7 @@ export default class VectorAuthPage extends React.PureComponent {
     public render() {
         const pageStyle = {
             background: `center/cover fixed url(${VectorAuthPage.getWelcomeBackgroundUrl()})`,
+            'background-position': "top, center",
         };
 
         const modalStyle: CSSProperties = {
